@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-Sheng Lee</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Yu-Sheng Lee</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Yu-Sheng Lee</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Anticyclotomic Euler Systems for CM fields&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;em&gt;Hida family of theta lift from U(1) to definite U(2)&lt;/em&gt;, &lt;br&gt;&#xA;Submited.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;Derived p-adic heights and the leading coefficient of the Bertolini–Darmon–Prasanna p-adic L-function&lt;/em&gt;,&#xA;with Francesc Castella, Chi-Yun Hsu, Debanjana Kundu, and Zheng Liu,&lt;br&gt;&#xA;Trans. Amer. Math. Soc. Ser. B 12 (2025), 748-788,&#xA;(&lt;a href=&#34;https://www.ams.org/journals/btran/2025-12-20/S2330-0000-2025-00227-9/&#34;&gt;journal&lt;/a&gt;,&#xA;&lt;a href=&#34;https://arxiv.org/abs/2308.10474&#34;&gt;arXiv&lt;/a&gt;).&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Yu-Sheng Lee</title>
+      <link>http://localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;university-of-michigan&#34;&gt;University of Michigan&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Math 156: Applied Honor Calculus II, Fall 2025&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Math 312: Applied Modern Algebra, Winter 2024&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Math 116 Calculus II, Fall 2024&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Math 116 Calculus II, Winter 2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Math 116 Calculus II, Fall 2023&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;columbia-university&#34;&gt;Columbia University&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Calculus II, Fall 2021&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Linear Algebra, Summer 2020&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
