@@ -83,16 +83,14 @@ $y-medium: 1.0rem;
         max-width: 100%;
     }
     .avatar > img {
-    float: none;
-    display: block;
-    margin: 0 auto 16px auto;
-    height: 126px;
-    width: auto;
+        display: none;
     
-    // For tablets and larger screens
     @media (min-width: 600px) {
+        display: block;
         float: left;
         margin: 4px 16px 16px 0;
+        height: 126px;
+        width: auto;
     }
     }
     ol {

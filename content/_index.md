@@ -23,5 +23,5 @@ and here is my [CV](resume.pdf).
 
 ---
 
-The site is build by [Hugo](gohugo.io) with [hugo-researcher](https://github.com/ojroques/hugo-researcher).
+The site is build by [Hugo](gohugo.io) based on [hugo-researcher](https://github.com/ojroques/hugo-researcher).
 *(Last updated: Aug 8, 2025)*
