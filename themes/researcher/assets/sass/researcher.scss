@@ -83,11 +83,11 @@ $y-medium: 1.0rem;
         max-width: 100%;
     }
     .avatar > img {
-        border-radius: 50%;
-        float: right;
-        margin: -8px 0 0 16px;
-        height: $avatar-size;
-        width: $avatar-size;
+        //border-radius: 50%;
+        float: left;
+        margin: 4px 16px 16px 0;
+        height: 126px;
+        width: auto;
     }
     ol {
         counter-reset: list;
