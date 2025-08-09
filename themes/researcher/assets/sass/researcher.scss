@@ -83,11 +83,17 @@ $y-medium: 1.0rem;
         max-width: 100%;
     }
     .avatar > img {
-        //border-radius: 50%;
+    float: none;
+    display: block;
+    margin: 0 auto 16px auto;
+    height: 126px;
+    width: auto;
+    
+    // For tablets and larger screens
+    @media (min-width: 600px) {
         float: left;
         margin: 4px 16px 16px 0;
-        height: 126px;
-        width: auto;
+    }
     }
     ol {
         counter-reset: list;
