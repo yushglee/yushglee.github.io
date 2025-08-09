@@ -2,8 +2,6 @@
 title = "Yu-Sheng Lee"
 +++
 
-
-
 **Email**: [yushglee@umich.edu](mailto:yushglee@umich.edu)
 
 **Office**: EH 3836
@@ -21,6 +19,7 @@ I received my PhD under the supervision of [Eric Urban](https://www.math.columbi
 I am on the academic job market for the year of 2025/2026
 and here is my [CV](resume.pdf).
 
+---
 
-
-
+The site is build by [Hugo](gohugo.io) with [hugo-researcher](https://github.com/ojroques/hugo-researcher).
+*(Last updated: Aug 8, 2025)*
