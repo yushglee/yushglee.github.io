@@ -2,7 +2,7 @@
 title = "Yu-Sheng Lee"
 +++
 
-{{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/photo.jpg" alt="avatar">}}
 
 **Email**: [yushglee@umich.edu](mailto:yushglee@umich.edu)
 
