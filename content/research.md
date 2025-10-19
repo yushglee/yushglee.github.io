@@ -2,11 +2,10 @@
 title = "Yu-Sheng Lee"
 +++
 
----
 
 ## Preprints
 
-* *Anticyclotomic Euler Systems for CM fields*,  preprint,
+* *Anticyclotomic Euler Systems for CM fields*,  submited.
 ([arXiv](https://arxiv.org/abs/2508.05861)).
 
 * *Hida family of theta lift from U(1) to definite U(2)*,  submited.

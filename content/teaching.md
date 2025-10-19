@@ -2,7 +2,6 @@
 title = "Yu-Sheng Lee"
 +++
 
----
 
 ## University of Michigan
 

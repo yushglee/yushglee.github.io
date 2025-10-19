@@ -87,9 +87,9 @@ $y-medium: 1.0rem;
     
     @media (min-width: 600px) {
         display: block;
-        float: left;
-        margin: 4px 16px 16px 0;
-        height: 126px;
+        float: right;
+        margin: 4px -50px 16px 4px;
+        height: 250px;
         width: auto;
     }
     }
