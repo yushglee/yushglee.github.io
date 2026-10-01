@@ -15,10 +15,10 @@ Ann Arbor, MI 48109-1043
 
 ---
 
-I am a postdoctoral researcher at University of Michigan.
+I am a postdoctoral researcher at the National Center for Theoretical Sciences (NCTS).
 I received my PhD under the supervision of [Eric Urban](https://www.math.columbia.edu/~urban/).
 
-I am on the academic job market for the year of 2025/2026
+I am on the academic job market for the year of 2026/2027
 and here is my [CV](resume.pdf).
 
 ---
