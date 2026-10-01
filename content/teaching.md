@@ -5,6 +5,8 @@ title = "Yu-Sheng Lee"
 
 ## University of Michigan
 
+* Math 116 Calculus II, Winter 2025
+
 * Math 156: Applied Honor Calculus II, Fall 2025
 
 * Math 312: Applied Modern Algebra, Winter 2024
